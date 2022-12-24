@@ -1,12 +1,15 @@
 <h1 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Saber+Ben+zineb;!&center=true&size=30">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Saber+Ben+Zineb...;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
 <h5 align="center">
 <h3 align="center">My name is Saber Ben zineb I'm a Computer Science Student </h3>
-<img align="right" alt="coding" width="400" height="300" src="https://www.web24zone.com/wp-content/uploads/2022/09/2c778e_89d09c380b7b4a09bcdbcb329c4734b3_mv2.gif">
-📄 Active membre in OSSEC,Robotic Association and Competitive Programming Club
-📫 How to reach me saber.benzineb@ensi-uma.tn
+<img align="right" alt="coding" width="350" height="300" src="https://www.web24zone.com/wp-content/uploads/2022/09/2c778e_89d09c380b7b4a09bcdbcb329c4734b3_mv2.gif">
+<ul>
+<li>📄 Active membre in OSSEC,Robotic Association and Competitive Programming Club</li>
+<li>📫 How to reach me saber.benzineb@ensi-uma.tn</li>
+</ul>
 <h3 align="left"><i>Languages and Tools:</i></h3>
   <p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
