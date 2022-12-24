@@ -6,7 +6,7 @@
 <h3 align="center">My name is Saber Ben zineb I'm a Computer Science Student </h3>
 <img align="right" alt="coding" width="400" height="300" src="https://www.web24zone.com/wp-content/uploads/2022/09/2c778e_89d09c380b7b4a09bcdbcb329c4734b3_mv2.gif">
 📄 Active membre in OSSEC,Robotic Association and Competitive Programming Club
-📫 How to reach me salma.makinaa2557@gmail.com
+📫 How to reach me saber.benzineb@ensi-uma.tn
 <h3 align="left"><i>Languages and Tools:</i></h3>
   <p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
@@ -27,9 +27,9 @@
 <a href="https://codeforces.com/profile/saber.benzineb.pro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="saber.benzineb.pro" height="30" width="40" /></a>
 <a href="https://discord.gg/#7125" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#7125" height="30" width="40" /></a>
 </p>
-
- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SaberBENZineb&show_icons=true&locale=en&layout=compact" alt="SaberBENZineb" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SaberBENZineb&show_icons=true&locale=en" alt="SaberBENZineb" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SaberBENZineb&" alt="SaberBENZineb" /></p>
+<table>
+<tr>
+ <td><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SaberBENZineb&show_icons=true&locale=en" alt="SaberBENZineb" /></p></td>
+ <td><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SaberBENZineb&" alt="SaberBENZineb" /></p></td>
+</tr>
+<table>
